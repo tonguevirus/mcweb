@@ -1,0 +1,16 @@
+0.1.0
+Released
+0.1.1
+Added Menu
+Added Flat World
+Fixed Grass And Log Textures
+Larger And More Detailed Terrain Generation
+Bug Fixes
+Reduced Fog
+0.1.2
+Music
+Fixed Wood, Cobblestone, And Glass Textures
+Fixed Flat World Bedrock Texture
+Better TNT
+World Sizes: Small, Medium, And Large
+Changed Menu Background
