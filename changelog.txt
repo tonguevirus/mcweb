@@ -14,3 +14,31 @@ Fixed Flat World Bedrock Texture
 Better TNT
 World Sizes: Small, Medium, And Large
 Changed Menu Background
+0.2.0
+Increased Splash Size
+More Hotbar Slots
+Cycle Through Inventory
+More Placeable Blocks
+Coal Item
+Stick Item
+Crafting
+Smelting
+Fixed Block Placing Bug
+Changed Heart Icon
+Added Version To Bottom Left Of Menu
+Changed Heart Size
+Increased Chance Of Coal
+Temporarily Removing Sprint Due To FOV Bug
+Better TNT Physics
+Reduced Explosion Size
+Press X To Use TNT
+Day And Night
+Torches Now Produce Light
+Added Skyblock
+Updated Sneaking
+Adjusted Max Look Angle
+Added Flying
+Added Tools To Instantly Break Blocks
+Added Breaking Sounds
+Added F To Change Render Distance To Controls List
+Fixed Sapling Texture
