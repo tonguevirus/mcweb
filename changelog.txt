@@ -42,3 +42,6 @@ Added Tools To Instantly Break Blocks
 Added Breaking Sounds
 Added F To Change Render Distance To Controls List
 Fixed Sapling Texture
+0.2.1
+Fixed Mouse Cursor Not Aligning With Crosshair
+Splash Text Is No Longer Blurry
